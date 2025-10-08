@@ -16,7 +16,7 @@ export default function HomeScreen() {
       </ScrollView>
   );
 }
-
+// à coté de la plaque
 const styles = StyleSheet.create({
   container: {
     flex: 1,
